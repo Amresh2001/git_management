@@ -1,2 +1,2 @@
-# Hello, This is Amresh
-# Welcome you all to my new git repo.
+Hello, This is Amresh
+Welcome you all to my new git repo.
